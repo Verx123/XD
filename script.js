@@ -1,5 +1,2 @@
-function pokaż() {
-  document.getElementById("hiddenMessage").style = 'block'
-}
-
+var cebula = "owoc"
 <script src="index.html"></script>
