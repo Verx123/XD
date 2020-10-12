@@ -1,3 +1,3 @@
 function pokaż() {
-  document.getElementById("hiddenMessage").style = 'block'
+  document.getElementById("hiddenMessage") = 'block'
 }
